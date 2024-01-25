@@ -2,7 +2,7 @@
 
 Road accidents have become a significant concern in Sri Lanka, with high-speed driving and unaware drivers being the primary factors in road accidents. Increasing vehicle use has resulted in increased traffic disorder, which has increased the number of road accidents. In the event of an accident, some people are unable to reach the hospital on time due to traffic jams, lack of ambulance, and lack of necessary information. Here is an automated Internet of Things (IoT) based accident prevention, detection, and emergency solution.Using this system when crash happens this system can identify crash and using the system it will be automatically sends the location, vehicle speed, time sends to using sms to the known person(guardian).
 
-<img src="[https://github.com/uddhikaku/VehicleCrashDetectionSystem/blob/main/diagram.jpg](https://github.com/HansiLeelasena/Motor-bike-display/blob/b893b3a0316615d4fea01a013cec9b6dbddb14d3/motor%20bike.png)" width="50%" />
+<img src="https://github.com/HansiLeelasena/Motor-bike-display/blob/b893b3a0316615d4fea01a013cec9b6dbddb14d3/motor%20bike.png" width="50%" />
 
 ---
 
